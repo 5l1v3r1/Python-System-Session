@@ -57,7 +57,7 @@ elif islem == 3:
 	mesaj = "Kullanıcı şifrenizi değiştirmek için iki kere yeni şifrenizi giriş yapmalısınız. ";
 	print mesaj
 	sistemin_sifresini_degistir()
-	print start
+	print star
 
 else:
 	if islem != 1 and 2 and 3:
