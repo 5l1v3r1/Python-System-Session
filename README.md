@@ -12,4 +12,5 @@ yazılmışdır.
 (3) Bilgisiyar Oturum Şifresini Değiştirmek
 
 Video : https://www.youtube.com/watch?v=pTbmfbgSSLk
+
 Kaynak Kod : https://github.com/ismailtasdelen/Python-System-Session
